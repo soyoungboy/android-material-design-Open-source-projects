@@ -78,9 +78,14 @@ https://github.com/ikimuhendis/LDrawer
 [LfloatLabelLayout][41]
 ![LfloatLabelLayout][42]
 
-13ImageryHeader(Image头部特效)
+13 ImageryHeader(Image头部特效)
 [ImageryHeader][43]
 ![ImageryHeader][44]
+14 MaterialDesign设计的seekbar, 可能不支持低版本
+地址在：https://github.com/AnderWeb/discreteSeekBar
+
+![](https://camo.githubusercontent.com/e717e2597779d1ddc980ace6f3943f62483d8a8c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d376e62565058785568596b2f56472d724f3634704d57492f414141414141414148734d2f614d52676c7432567a726b2f773633392d683438302f616e696d6174696f6e2e676966) 
+
 
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
