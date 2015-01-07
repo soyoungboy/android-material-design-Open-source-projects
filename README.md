@@ -2,62 +2,93 @@
 
 ------
 1 android （material design 效果的代码库）
+
 [MaterialDesignLibrary][1]
 ![MaterialDesignLibrary][2]
+
+----------
 2 RippleEffect （material design控件单击时，波纹效果）
 [RippleEffect][3]
 ![RippleEffect][4]
+
+----------
 3 Material Dialogs（material design的dialog）
 [Material Dialogs][5]
 [Demo下载地址][6]
+
+----------
 
 3.1 MaterialDialog（另外一个哥们的material design的dialog）
 [MaterialDialog][7]
 ![MaterialDialog][8]
 
+----------
+
 4 FloatingActionButton
 [FloatingActionButton][9]
 ![FloatingActionButton效果][10]
+
+----------
 
 5 LDrawer(material design的侧滑栏)
 https://github.com/ikimuhendis/LDrawer
 ![material design的侧滑栏][11]
 
+----------
+
 5.1 MaterialNavigationDrawer (material design的侧滑栏)
 [MaterialNavigationDrawer][12]
 ![MaterialNavigationDrawer][13]
+
+----------
 
 5.2 android-material-drawer-template(material design的侧滑栏)
 [android-material-drawer-template][14]
 ![android-material-drawer-template][15]
 
+----------
+
 6 MaterialEditText(material design的输入框)
 [MaterialEditText][16]
 ![material design的输入框][17]
+
+----------
 
 7 一个展示material design效果的整体例子的应用：
 [LollipopShowcase][18]
 ![LollipopShowcase][19]
 
+----------
+
 7.1 一个展示material design效果的整体例子的应用：
 [AndroidMaterialDesignToolbar][20]
 ![AndroidMaterialDesignToolbar][21]
+
+----------
 
 7.2 一个展示material design效果的整体例子的应用：
 [MaterialDesignSample][22]
 ![MaterialDesignSample][23]
 
+----------
+
 7.3 material-notes (material design风格的记事本)
 [material-notes][24]
 ![material-notes][25]
+
+----------
 
 8 MaterialList （android Cardview的例子）
 [MaterialList][26]
 ![MaterialList][27]
 
+----------
+
 9MaterialTabs(Tab页切换)
 [MaterialTabs][28]
 ![MaterialTabs][29]
+
+----------
 
 10 MaterialWidget (Material 一些漂亮的组件[paperbutton,circleButton,tab_indicator,EditText,ProgressBar,CompoundWidget,Radio Button,Check Box,Switch])
 [MaterialWidget][30]
@@ -70,21 +101,31 @@ https://github.com/ikimuhendis/LDrawer
 ![radio_button][37]
 ![check_box][38]
 
+----------
+
 11 MenuAnimation动画
 [MenuAnimation][39]
 ![MenuAnimation][40]
+
+----------
 
 12 LfloatLabelLayout EditText校验报错效果
 [LfloatLabelLayout][41]
 ![LfloatLabelLayout][42]
 
+----------
+
 13 ImageryHeader(Image头部特效)
 [ImageryHeader][43]
 ![ImageryHeader][44]
+
+----------
 14 MaterialDesign设计的seekbar, 可能不支持低版本
 地址在：https://github.com/AnderWeb/discreteSeekBar
 
 ![](https://camo.githubusercontent.com/e717e2597779d1ddc980ace6f3943f62483d8a8c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d376e62565058785568596b2f56472d724f3634704d57492f414141414141414148734d2f614d52676c7432567a726b2f773633392d683438302f616e696d6174696f6e2e676966) 
+
+----------
 
 
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
