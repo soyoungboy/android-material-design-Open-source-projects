@@ -120,14 +120,32 @@ https://github.com/ikimuhendis/LDrawer
 ![ImageryHeader][44]
 
 ----------
-14 MaterialDesign设计的seekbar, 可能不支持低版本
+14 MaterialDesign设计的seekbar可能不支持低版本
 地址在：https://github.com/AnderWeb/discreteSeekBar
 
 ![](https://camo.githubusercontent.com/e717e2597779d1ddc980ace6f3943f62483d8a8c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d376e62565058785568596b2f56472d724f3634704d57492f414141414141414148734d2f614d52676c7432567a726b2f773633392d683438302f616e696d6174696f6e2e676966) 
-
 ----------
-
-
+15
+snackbar--显示在布局底部的一个控件
+https://github.com/nispok/snackbar
+![snackbar][45]
+----------
+16
+一个Android MaterialDesign设计任务列表
+https://github.com/adrianblp/Materialist
+![Materialist][46]
+----------
+17
+一个简单MaterialDesign设计的录音程序
+https://github.com/dkim0419/SoundRecorder
+![SoundRecorder][47]
+![SoundRecorder][48]
+----------
+18
+DrawerFrameLayout
+https://github.com/HeinrichReimer/material-drawer
+![DrawerFrameLayout][49]
+----------
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
   [3]: https://github.com/traex/RippleEffect
@@ -172,4 +190,8 @@ https://github.com/ikimuhendis/LDrawer
   [42]: https://github.com/JesusM/LfloatLabelLayout/raw/master/images/Screenshot_2014-10-27-09-13-00.png
   [43]: https://github.com/YukiMatsumura/ImageryHeader
   [44]: https://camo.githubusercontent.com/d5bb4ddb19127dac1c90b626dc8bc8bd0e7d5672/687474703a2f2f322e62702e626c6f6773706f742e636f6d2f2d6552317277335830626e342f55395f45767a47593133492f41414141414141414174772f3343716f4c5067627448592f733634302f7375726661636532622e676966
-  
+  [45]: https://github.com/nispok/snackbar/raw/master/art/home-colored.png
+  [46]: https://camo.githubusercontent.com/152553376933dcc529705b886f1882c3a3e7e937/687474703a2f2f692e696d6775722e636f6d2f4e6673767674512e706e67
+  [47]: https://camo.githubusercontent.com/4016cf2d75e835d50621bb15ce6c9d06e653fc5b/687474703a2f2f692e696d6775722e636f6d2f3767676346517a6c2e706e67
+  [48]: https://camo.githubusercontent.com/f80c6c88e16a1f42494b04a6c610a4d3b1122041/687474703a2f2f692e696d6775722e636f6d2f483653634f32316c2e706e67
+  [49]: https://camo.githubusercontent.com/c7d88e8703f260bc568a8d32c480715baeca7c5c/687474703a2f2f692e696d6775722e636f6d2f4a456275326e472e706e67
