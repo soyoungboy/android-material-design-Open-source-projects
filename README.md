@@ -308,6 +308,26 @@ https://github.com/Yalantis/Context-Menu.Android
 效果：
 
 ![](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)
+----------
+recyclerview-animators
+
+地址请点击：
+https://github.com/wasabeef/recyclerview-animators
+
+效果：
+![](https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo.gif)
+
+![](https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo2.gif)
+----------
+SuperSLiM
+为RecyclerView提供交替变换视图布局的layout manager。可以在线性、网格、不规则网格布局中交替切换，同时带有sticky header的效果。
+
+地址请点击：
+https://github.com/TonicArtos/SuperSLiM
+
+效果：
+![](http://www.jcodecraeer.com/uploads/150110/1-1501101APB29.gif)
+----------
 
 
 
