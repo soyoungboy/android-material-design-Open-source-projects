@@ -1,97 +1,145 @@
 # material design 的android开源代码整理
 
 ------
-1 android （material design 效果的代码库）
+1
+android （material design 效果的代码库）
 
 [MaterialDesignLibrary][1]
+
 ![MaterialDesignLibrary][2]
 
 ----------
-2 RippleEffect （material design控件单击时，波纹效果）
+2 
+RippleEffect （material design控件单击时，波纹效果）
+
 [RippleEffect][3]
+
 ![RippleEffect][4]
 
 ----------
-3 Material Dialogs（material design的dialog）
+3
+ Material Dialogs（material design的dialog）
+
 [Material Dialogs][5]
+
 [Demo下载地址][6]
 
 ----------
 
-3.1 MaterialDialog（另外一个哥们的material design的dialog）
+3.1 
+MaterialDialog（另外一个哥们的material design的dialog）
+
 [MaterialDialog][7]
+
 ![MaterialDialog][8]
 
 ----------
 
-4 FloatingActionButton
+4
+ FloatingActionButton
+
 [FloatingActionButton][9]
+
 ![FloatingActionButton效果][10]
 
 ----------
 
-5 LDrawer(material design的侧滑栏)
+5 
+LDrawer(material design的侧滑栏)
+
 https://github.com/ikimuhendis/LDrawer
+
 ![material design的侧滑栏][11]
 
 ----------
 
-5.1 MaterialNavigationDrawer (material design的侧滑栏)
+5.1
+ MaterialNavigationDrawer (material design的侧滑栏)
+
 [MaterialNavigationDrawer][12]
+
 ![MaterialNavigationDrawer][13]
 
 ----------
 
-5.2 android-material-drawer-template(material design的侧滑栏)
+5.2 
+android-material-drawer-template(material design的侧滑栏)
+
 [android-material-drawer-template][14]
+
 ![android-material-drawer-template][15]
 
 ----------
 
-6 MaterialEditText(material design的输入框)
+6
+ MaterialEditText(material design的输入框)
+
 [MaterialEditText][16]
+
 ![material design的输入框][17]
 
 ----------
 
-7 一个展示material design效果的整体例子的应用：
+7 
+一个展示material design效果的整体例子的应用：
+
 [LollipopShowcase][18]
+
 ![LollipopShowcase][19]
 
 ----------
 
-7.1 一个展示material design效果的整体例子的应用：
+7.1 
+一个展示material design效果的整体例子的应用：
+
 [AndroidMaterialDesignToolbar][20]
+
 ![AndroidMaterialDesignToolbar][21]
 
 ----------
 
-7.2 一个展示material design效果的整体例子的应用：
+7.2 
+一个展示material design效果的整体例子的应用：
+
 [MaterialDesignSample][22]
+
 ![MaterialDesignSample][23]
 
 ----------
 
-7.3 material-notes (material design风格的记事本)
+7.3
+ material-notes (material design风格的记事本)
+
 [material-notes][24]
+
 ![material-notes][25]
 
 ----------
 
-8 MaterialList （android Cardview的例子）
+8 
+MaterialList （android Cardview的例子）
+
 [MaterialList][26]
+
 ![MaterialList][27]
 
 ----------
 
-9MaterialTabs(Tab页切换)
+9
+MaterialTabs(Tab页切换)
+
 [MaterialTabs][28]
+
 ![MaterialTabs][29]
 
 ----------
 
-10 MaterialWidget (Material 一些漂亮的组件[paperbutton,circleButton,tab_indicator,EditText,ProgressBar,CompoundWidget,Radio Button,Check Box,Switch])
+10
+ MaterialWidget (Material 一些漂亮的组件
+[paperbutton,circleButton,tab_indicator,EditText,ProgressBar,CompoundWidget,Radio Button,Check Box,Switch])
+
 [MaterialWidget][30]
+
 ![paperbutton][31]
 ![circleButton][32]
 ![tab_indicator][33]
@@ -103,49 +151,92 @@ https://github.com/ikimuhendis/LDrawer
 
 ----------
 
-11 MenuAnimation动画
+11 
+MenuAnimation动画
+
 [MenuAnimation][39]
+
 ![MenuAnimation][40]
 
 ----------
 
-12 LfloatLabelLayout EditText校验报错效果
+12
+ LfloatLabelLayout EditText校验报错效果
+
 [LfloatLabelLayout][41]
+
 ![LfloatLabelLayout][42]
 
 ----------
 
-13 ImageryHeader(Image头部特效)
+13
+ ImageryHeader(Image头部特效)
+
 [ImageryHeader][43]
+
 ![ImageryHeader][44]
 
 ----------
-14 MaterialDesign设计的seekbar可能不支持低版本
+14
+ MaterialDesign设计的seekbar可能不支持低版本
+
 地址在：https://github.com/AnderWeb/discreteSeekBar
 
 ![](https://camo.githubusercontent.com/e717e2597779d1ddc980ace6f3943f62483d8a8c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d376e62565058785568596b2f56472d724f3634704d57492f414141414141414148734d2f614d52676c7432567a726b2f773633392d683438302f616e696d6174696f6e2e676966) 
 ----------
 15
 snackbar--显示在布局底部的一个控件
+
 https://github.com/nispok/snackbar
+
 ![snackbar][45]
 ----------
 16
 一个Android MaterialDesign设计任务列表
+
 https://github.com/adrianblp/Materialist
+
 ![Materialist][46]
 ----------
 17
 一个简单MaterialDesign设计的录音程序
+
 https://github.com/dkim0419/SoundRecorder
+
 ![SoundRecorder][47]
 ![SoundRecorder][48]
 ----------
 18
 DrawerFrameLayout
+
 https://github.com/HeinrichReimer/material-drawer
+
 ![DrawerFrameLayout][49]
 ----------
+19
+Side-Menu.Android
+
+https://github.com/Yalantis/Side-Menu.Android
+
+![](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)
+----------
+20
+Pull-to-Refresh.Rentals-Android
+
+https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android
+
+![](https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966)
+
+----------
+21
+Context-Menu.Android
+
+https://github.com/Yalantis/Context-Menu.Android
+
+![](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)
+
+
+
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
   [3]: https://github.com/traex/RippleEffect
