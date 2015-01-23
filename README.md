@@ -309,6 +309,7 @@ https://github.com/Yalantis/Context-Menu.Android
 
 ![](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)
 ----------
+22
 recyclerview-animators
 
 地址请点击：
@@ -319,6 +320,7 @@ https://github.com/wasabeef/recyclerview-animators
 
 ![](https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo2.gif)
 ----------
+23
 SuperSLiM
 为RecyclerView提供交替变换视图布局的layout manager。可以在线性、网格、不规则网格布局中交替切换，同时带有sticky header的效果。
 
@@ -328,6 +330,51 @@ https://github.com/TonicArtos/SuperSLiM
 效果：
 ![](http://www.jcodecraeer.com/uploads/150110/1-1501101APB29.gif)
 ----------
+24
+material design 的颜色的一个library项目：
+A Color Pallette that includes all the colors respects Android Material Design. Thanks "Marcel Ulbrich" for creating datas.
+地址：
+https://github.com/emreaktrk/LColorPallette
+
+----------
+25
+MaterialDesignSupport
+地址请点击：
+https://github.com/shawwinbin/MaterialDesignSupport
+效果：
+![](https://github.com/shawwinbin/MaterialDesignSupport/raw/master/art/Material%20Design%20-%20Screen%20Shot%201.png)
+![](https://github.com/shawwinbin/MaterialDesignSupport/raw/master/art/Material%20Design%20-%20Screen%20Shot%202.png)
+![](https://github.com/shawwinbin/MaterialDesignSupport/raw/master/art/Material%20Design%20-%20Screen%20Shot%204.png)
+![](https://github.com/shawwinbin/MaterialDesignSupport/raw/master/art/Material%20Design%20-%20Screen%20Shot%205.png)
+![](https://github.com/shawwinbin/MaterialDesignSupport/raw/master/art/Material%20Design%20-%20Screen%20Shot%206.png)
+
+----------
+26
+L-Dialogs
+地址请点击：
+https://github.com/lewisjdeane/L-Dialogs
+效果：
+![](https://github.com/lewisjdeane/L-Dialogs/raw/master/screenshots/banner.jpg)
+![](https://github.com/lewisjdeane/L-Dialogs/raw/master/screenshots/banner.jpg)
+
+----------
+27
+L Navigation Drawer
+地址请点击：
+https://github.com/lewisjdeane/L-Navigation-Drawer
+效果：
+![](https://github.com/lewisjdeane/L-Navigation-Drawer/raw/master/app/src/main/res/screenshots/img.png)
+
+----------
+
+29
+Notes（Material designed notes app）
+Material designed的完整APP
+地址点击：
+https://github.com/lewisjdeane/Notes
+
+----------
+
 
 
 
