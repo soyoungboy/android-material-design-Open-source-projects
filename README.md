@@ -339,8 +339,10 @@ https://github.com/emreaktrk/LColorPallette
 ----------
 25
 MaterialDesignSupport
+
 地址请点击：
 https://github.com/shawwinbin/MaterialDesignSupport
+
 效果：
 ![](https://github.com/shawwinbin/MaterialDesignSupport/raw/master/art/Material%20Design%20-%20Screen%20Shot%201.png)
 ![](https://github.com/shawwinbin/MaterialDesignSupport/raw/master/art/Material%20Design%20-%20Screen%20Shot%202.png)
@@ -351,8 +353,10 @@ https://github.com/shawwinbin/MaterialDesignSupport
 ----------
 26
 L-Dialogs
+
 地址请点击：
 https://github.com/lewisjdeane/L-Dialogs
+
 效果：
 ![](https://github.com/lewisjdeane/L-Dialogs/raw/master/screenshots/banner.jpg)
 ![](https://github.com/lewisjdeane/L-Dialogs/raw/master/screenshots/banner.jpg)
@@ -360,8 +364,10 @@ https://github.com/lewisjdeane/L-Dialogs
 ----------
 27
 L Navigation Drawer
+
 地址请点击：
 https://github.com/lewisjdeane/L-Navigation-Drawer
+
 效果：
 ![](https://github.com/lewisjdeane/L-Navigation-Drawer/raw/master/app/src/main/res/screenshots/img.png)
 
@@ -370,6 +376,7 @@ https://github.com/lewisjdeane/L-Navigation-Drawer
 29
 Notes（Material designed notes app）
 Material designed的完整APP
+
 地址点击：
 https://github.com/lewisjdeane/Notes
 
