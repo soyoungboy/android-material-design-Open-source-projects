@@ -333,6 +333,7 @@ https://github.com/TonicArtos/SuperSLiM
 24
 material design 的颜色的一个library项目：
 A Color Pallette that includes all the colors respects Android Material Design. Thanks "Marcel Ulbrich" for creating datas.
+
 地址：
 https://github.com/emreaktrk/LColorPallette
 
@@ -381,9 +382,20 @@ Material designed的完整APP
 https://github.com/lewisjdeane/Notes
 
 ----------
+30
+meizhi （带有美女图片的一个完整App）
 
+下载地址：
+https://github.com/xingrz/meizhi 
+使用到：
+Material Design
+Volley + jsoup
+Picasso
+RecyclerView + GridLayoutManager
+ViewPager
 
-
+效果：
+![](http://xingrz.me/attachs/meizhi.png)
 
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
