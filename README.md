@@ -449,9 +449,10 @@ InstaMaterial
 https://github.com/frogermcs/InstaMaterial
 
 效果：
-![](http://www.jcodecraeer.com/uploads/150124/1-150124024A3531.gif）
+![][50]
 
 ----------
+
 
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
@@ -502,3 +503,4 @@ https://github.com/frogermcs/InstaMaterial
   [47]: https://camo.githubusercontent.com/4016cf2d75e835d50621bb15ce6c9d06e653fc5b/687474703a2f2f692e696d6775722e636f6d2f3767676346517a6c2e706e67
   [48]: https://camo.githubusercontent.com/f80c6c88e16a1f42494b04a6c610a4d3b1122041/687474703a2f2f692e696d6775722e636f6d2f483653634f32316c2e706e67
   [49]: https://camo.githubusercontent.com/c7d88e8703f260bc568a8d32c480715baeca7c5c/687474703a2f2f692e696d6775722e636f6d2f4a456275326e472e706e67
+  [50]: http://www.jcodecraeer.com/uploads/150124/1-150124024A3531.gif
