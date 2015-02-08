@@ -449,10 +449,96 @@ InstaMaterial
 https://github.com/frogermcs/InstaMaterial
 
 效果：
-![][50]
+![](http://www.jcodecraeer.com/uploads/150124/1-150124024A3531.gif)
 
 ----------
 
+35
+
+Material-Movies（电影类的应用）
+
+下载地址：
+https://github.com/saulmm/Material-Movies
+
+效果：
+![](https://camo.githubusercontent.com/a0f4c555b1dbaafb83475be4fb09fd2fe3a0e14c/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30322f312e706e67)
+
+![](https://camo.githubusercontent.com/1b9bd3addaeaefa48b41a4a27a592370c3f911db/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30322f322e706e67)
+
+![](https://camo.githubusercontent.com/9c66422b4244c78fd232c5ef638cff74cb709bd2/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30322f332e706e67)
+
+----------
+
+36
+
+MaterialEditText
+
+下载地址：
+https://github.com/Pombo/MaterialEditText
+
+效果：
+![](https://github.com/Pombo/MaterialEditText/raw/master/img/demo_dark.gif)
+
+![](https://github.com/Pombo/MaterialEditText/raw/master/img/demo_light.gif)
+
+----------
+
+37
+
+JustNote
+
+下载地址：
+https://github.com/paulzin/JustNote
+
+效果：
+![](https://camo.githubusercontent.com/3308bf70853938b818f7b220a520964289fb2689/687474703a2f2f692e696d6775722e636f6d2f455169643037302e706e67)
+
+![](https://camo.githubusercontent.com/e6e76753fcf73735d37d9f2c9a531cccbdf23374/687474703a2f2f692e696d6775722e636f6d2f556877463578362e706e67)
+
+----------
+
+38
+
+MaterialRohling （MaterialDesign效果的viewpager和tab页切换）
+
+下载地址：
+https://github.com/hutilicious/MaterialRohling
+
+效果：
+
+![](https://camo.githubusercontent.com/1d60c47f8c42ff5b52273326e9558ec171140377/687474703a2f2f692e696d6775722e636f6d2f426572516e47792e706e67)
+
+![](https://camo.githubusercontent.com/b3c544f3e2c1e01e6f7dbbb75046f5b1a67b0076/687474703a2f2f692e696d6775722e636f6d2f4654416676586a2e706e67)
+
+----------
+
+39
+
+MyContacts（MaterialDesign设计的联系人列表）
+
+下载地址：
+https://github.com/kenwilcox/MyContacts
+
+----------
+
+40
+
+MaterialList
+
+下载地址：
+
+https://github.com/dexafree/MaterialList
+
+效果：
+
+![](https://camo.githubusercontent.com/5e2b88624b232f177f99017555a9774d838d4170/687474703a2f2f692e696d6775722e636f6d2f66354c4c6f72412e706e67)
+
+![](https://camo.githubusercontent.com/dbd35b767b0c4c6e356bf83c217a6179b08bacd9/687474703a2f2f692e696d6775722e636f6d2f79573775424e792e706e67)
+
+![](https://camo.githubusercontent.com/b71bb064807465b7c9132d7f6072e2064f01fb85/687474703a2f2f692e696d6775722e636f6d2f454e78554741772e706e67)
+
+![](https://cloud.githubusercontent.com/assets/5815289/5599845/0d086f38-92cf-11e4-9099-c3e6b9bb9fb7.PNG)
+----------
 
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
@@ -503,4 +589,3 @@ https://github.com/frogermcs/InstaMaterial
   [47]: https://camo.githubusercontent.com/4016cf2d75e835d50621bb15ce6c9d06e653fc5b/687474703a2f2f692e696d6775722e636f6d2f3767676346517a6c2e706e67
   [48]: https://camo.githubusercontent.com/f80c6c88e16a1f42494b04a6c610a4d3b1122041/687474703a2f2f692e696d6775722e636f6d2f483653634f32316c2e706e67
   [49]: https://camo.githubusercontent.com/c7d88e8703f260bc568a8d32c480715baeca7c5c/687474703a2f2f692e696d6775722e636f6d2f4a456275326e472e706e67
-  [50]: http://www.jcodecraeer.com/uploads/150124/1-150124024A3531.gif
