@@ -552,8 +552,116 @@ https://github.com/ckurtm/FabButton
 ![](https://github.com/ckurtm/FabButton/raw/master/365.gif)
 
 ----------
+42
+material 
+
+地址请点击：
+https://github.com/rey5137/material
+
+效果：
+- [Progress](https://github.com/rey5137/Material/wiki/Progress)
+    - Circular
+    
+        ![](https://github.com/rey5137/Material/raw/master/image/progress_circular_indeterminate.gif) ![](https://github.com/rey5137/Material/raw/master/image/progress_circular_determinate.gif)
+    - Linear
+
+        ![](https://github.com/rey5137/Material/raw/master/image/progress_linear_indeterminate.gif) 
+        ![](https://github.com/rey5137/Material/raw/master/image/progress_linear_determinate.gif)
+        ![](https://github.com/rey5137/Material/raw/master/image/progress_linear_query.gif)
+        ![](https://github.com/rey5137/Material/raw/master/image/progress_linear_buffer.gif)
+
+- [Button](https://github.com/rey5137/Material/wiki/Button)
+    
+    ![](https://github.com/rey5137/Material/raw/master/image/button_raise_touch.gif) ![](https://github.com/rey5137/Material/raw/master/image/button_raise_wave.gif)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/fab_image.gif) ![](https://github.com/rey5137/Material/raw/master/image/fab_line.gif)   
+     
+- [Switch](https://github.com/rey5137/Material/wiki/Switch)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/cb.gif)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/rb.gif)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/switch.gif)
+
+- [Slider](https://github.com/rey5137/Material/wiki/Slider)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/slider_continuous.gif)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/slider_discrete.gif)
+
+- [Spinner](https://github.com/rey5137/Material/wiki/Spinner)
+     
+    ![](https://github.com/rey5137/Material/raw/master/image/spn.gif)
+
+- [Text Field](https://github.com/rey5137/Material/wiki/Text-Field)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/textfield.gif)
+
+- [TabPageIndicator](https://github.com/rey5137/Material/wiki/TabPageIndicator)
+     
+    ![](https://github.com/rey5137/Material/raw/master/image/tpi.gif)
+
+- [SnackBar](https://github.com/rey5137/Material/wiki/SnackBar)
+     
+    ![](https://github.com/rey5137/Material/raw/master/image/snackbar.png)
+
+- [Dialog](https://github.com/rey5137/Material/wiki/Dialog)
+
+    ![](https://github.com/rey5137/Material/raw/master/image/dialog_3.png) ![](https://github.com/rey5137/Material/raw/master/image/dialog_4.png)
+    
+----------
+ 
+43 
+Qiitanium
+地址请点击：
+https://github.com/ogaclejapan/Qiitanium
+
+效果：
+![](https://raw.githubusercontent.com/ogaclejapan/Qiitanium/master/art/qiitanium.gif)
+
+----------
+44
+ArcLayout
+一个弧形（或者圆形）布局，在这个布局的基础上作者还实现了path以及Tumblr的菜单效果
+
+地址请点击：
+https://github.com/ogaclejapan/ArcLayout
+
+效果：
+![](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
+![](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif)
+
+----------
+45
+SmartTabLayout
+
+地址请点击：
+ https://github.com/ogaclejapan/SmartTabLayout
+
+效果：
+![](http://www.jcodecraeer.com/uploads/150331/1-150331192012319.gif)
 
 
+----------
+46
+Material-Animations
+Material过度动画Demo
+
+地址请点击：
+ https://github.com/lgvalle/Material-Animations
+
+效果：
+![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/example2.gif)
+
+----------
+47
+material-dialogs 
+
+效果：
+![Screenshots](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/screenshots.png)
+
+----------
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
   [3]: https://github.com/traex/RippleEffect
