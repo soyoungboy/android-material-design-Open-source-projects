@@ -659,7 +659,21 @@ Material过度动画Demo
 material-dialogs 
 
 效果：
-![Screenshots](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/screenshots.png)
+![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/screenshots.png)
+
+----------
+48
+material-navigation-drawer
+5.0侧边栏效果,有两种主题效果
+
+地址请点击：
+https://github.com/consp1racy/material-navigation-drawer
+
+效果：
+![](https://github.com/consp1racy/material-navigation-drawer/blob/master/docs/device-2015-01-03-0.3.0-v16-port.gif?raw=true)&nbsp;
+![](https://github.com/consp1racy/material-navigation-drawer/raw/master/docs/device-2015-01-03-0.3.0-v21-port-black.gif)&nbsp;
+![](https://github.com/consp1racy/material-navigation-drawer/raw/master/docs/device-2015-01-11-0.4.0-v21-land.gif)&nbsp;
+![](https://github.com/consp1racy/material-navigation-drawer/blob/master/docs/device-2015-01-03-0.3.0-v21-land-black.gif?raw=true)&nbsp;
 
 ----------
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
