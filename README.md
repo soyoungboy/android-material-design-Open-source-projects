@@ -676,6 +676,90 @@ https://github.com/consp1racy/material-navigation-drawer
 ![](https://github.com/consp1racy/material-navigation-drawer/blob/master/docs/device-2015-01-03-0.3.0-v21-land-black.gif?raw=true)&nbsp;
 
 ----------
+49
+cheesesquare
+最新推出的材料设计兼容库的演示项目。演示了 Collapsing Toolbar、 FloatingActionButton、 View anchoring、 NavigationView、 Snackbar
+
+地址请点击：
+https://github.com/chrisbanes/cheesesquare
+
+暂时没效果图
+
+----------
+50
+AmazeFileManager
+Material Design效果的文件管理器
+
+地址请点击：
+https://github.com/arpitkh96/AmazeFileManager
+
+效果：
+
+![](http://www.jcodecraeer.com/uploads/150524/1-150524114013G2.png)&nbsp;
+
+
+----------
+51
+Carbon
+Material Design的兼容库
+
+地址请点击：
+https://github.com/ZieIony/Carbon
+
+效果：
+![](https://github.com/ZieIony/Carbon/raw/master/images/recyclercards.png)&nbsp;
+![](https://github.com/ZieIony/Carbon/raw/master/images/checkboxes.png)&nbsp;
+![](https://github.com/ZieIony/Carbon/raw/master/images/drawer.png)&nbsp;
+![](https://github.com/ZieIony/Carbon/raw/master/images/powermenu.png)&nbsp;
+
+
+----------
+52
+android-player
+Material Design的过渡动画
+
+地址请点击：
+https://github.com/geftimov/android-player
+
+效果：
+![](https://github.com/geftimov/android-player/raw/master/art/playerPhoto.png)&nbsp;
+
+
+----------
+53 
+（内容参考自：http://www.jcodecraeer.com/a/opensource/2015/0504/2832.html）
+
+Remindly
+
+Remindly 是一个简单的用户友好的提醒应用。特点：Material 风格，可以设置重复提醒，按小时，按天 按周，按月。
+
+github地址：
+https://github.com/blanyal/Remindly
+
+效果：
+![](https://github.com/blanyal/Remindly/raw/master/screenshots/screenshot3.png)&nbsp;
+![](https://github.com/blanyal/Remindly/raw/master/screenshots/screenshot2.png)&nbsp;
+![](https://github.com/blanyal/Remindly/raw/master/screenshots/screenshot1.png)&nbsp;
+
+
+----------
+53
+MaterialViewPager
+Material Design的viewpager
+
+github地址：
+https://github.com/florent37/MaterialViewPager
+
+效果：
+![](https://camo.githubusercontent.com/29cc7dacff310f03e6264fd5bbc4c725d36f46a9/687474703a2f2f73686172652e676966796f75747562652e636f6d2f4b65626f4c702e676966)&nbsp;
+![](https://camo.githubusercontent.com/3e28cfea2da58337d4653954eeb5e5016ca970c0/687474703a2f2f73686172652e676966796f75747562652e636f6d2f4b59623044342e676966)&nbsp;
+![](https://camo.githubusercontent.com/2dfce263123ee1f7c45a12571e1b4ebd8a57aa1d/687474703a2f2f73686172652e676966796f75747562652e636f6d2f7941426b67572e676966)&nbsp;
+
+
+----------
+
+
+----------
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
   [3]: https://github.com/traex/RippleEffect
