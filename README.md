@@ -754,10 +754,45 @@ https://github.com/florent37/MaterialViewPager
 ![](https://camo.githubusercontent.com/29cc7dacff310f03e6264fd5bbc4c725d36f46a9/687474703a2f2f73686172652e676966796f75747562652e636f6d2f4b65626f4c702e676966)&nbsp;
 ![](https://camo.githubusercontent.com/3e28cfea2da58337d4653954eeb5e5016ca970c0/687474703a2f2f73686172652e676966796f75747562652e636f6d2f4b59623044342e676966)&nbsp;
 ![](https://camo.githubusercontent.com/2dfce263123ee1f7c45a12571e1b4ebd8a57aa1d/687474703a2f2f73686172652e676966796f75747562652e636f6d2f7941426b67572e676966)&nbsp;
+----------
+54
+material-animated-switch
 
+地址：
+
+https://github.com/glomadrian/material-animated-switch
+material design 设计的切换组件
+
+效果：
+
+![](https://github.com/glomadrian/material-animated-switch/raw/master/art/swtich.gif)&nbsp;
+----------
+55
+android-topeka
+
+地址：
+
+https://github.com/googlesamples/android-topeka
+
+效果：
+
+![](https://github.com/googlesamples/android-topeka/raw/master/screenshots/quiz_shakespeare.png)&nbsp;
+![](https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png)&nbsp;
+![](https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png)&nbsp;
 
 ----------
+56
 
+Notes
+
+地址：
+
+https://github.com/lguipeng/Notes
+
+效果：
+
+![](https://github.com/lguipeng/Notes/raw/master/screenshot/S50605-164615.jpg)&nbsp;
+![](https://github.com/lguipeng/Notes/raw/master/screenshot/S50611-164146.jpg)&nbsp;
 
 ----------
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
