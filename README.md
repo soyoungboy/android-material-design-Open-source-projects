@@ -675,6 +675,26 @@ https://github.com/consp1racy/material-navigation-drawer
 ![](https://github.com/consp1racy/material-navigation-drawer/raw/master/docs/device-2015-01-11-0.4.0-v21-land.gif)&nbsp;
 ![](https://github.com/consp1racy/material-navigation-drawer/blob/master/docs/device-2015-01-03-0.3.0-v21-land-black.gif?raw=true)&nbsp;
 
+49
+Android-MaterialDesign-DBMZ（图片抓取自豆瓣美女，可以学到Glide、Jsoup、Android-PullToRefresh等）
+地址请点击：
+https://github.com/ASPOOK/Android-MaterialDesign-DBMZ
+
+效果：
+
+![](https://github.com/aspook/Android-MaterialDesign-DBMZ/raw/master/images/dbmz.jpg)
+
+----------
+50
+Android-MaterialDesign-NavigationDrawer（Material Design风格的抽屉导航）
+地址请点击：
+https://github.com/ASPOOK/Android-MaterialDesign-NavigationDrawer
+
+效果：
+
+![](https://raw.githubusercontent.com/aspook/Android-MaterialDesign-NavigationDrawer/master/images/1_1.png)
+![](https://raw.githubusercontent.com/aspook/Android-MaterialDesign-NavigationDrawer/master/images/1_2.png)
+![](https://raw.githubusercontent.com/aspook/Android-MaterialDesign-NavigationDrawer/master/images/1_3.png)
 ----------
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
