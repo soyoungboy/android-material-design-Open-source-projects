@@ -832,22 +832,6 @@ https://github.com/maoruibin/AppPlus
 ![](https://github.com/maoruibin/AppPlus/blob/master/art/index.png)&nbsp;
 
 ----------
-58
-
-AssistiveTouch
-
-AssistiveTouch是一个仿IOS的虚拟按键。
-
-地址：
-
-https://github.com/songshimvp/assistivetouch
-
-效果：
-
-![](https://github.com/songshimvp/assistivetouch/blob/master/EasyRemind/AssistiveTouch.png)&nbsp;
-
-----------
-
   [1]: https://github.com/navasmdc/MaterialDesignLibrary
   [2]: https://github.com/navasmdc/MaterialDesignLibrary/raw/master/images/color_selector.png
   [3]: https://github.com/traex/RippleEffect
